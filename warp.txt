@@ -1,8 +1,13 @@
 ! This file is self-used only.
 
-*
+! bypass Rutgers
 ||rutgers.edu
-||wikipedia.org
+
+! bypass wikimedia
 zh.wikipedia.org
+||wikipedia.org
 ||wikidata.org
 ||wikisource.org
+
+! proxy all
+*
