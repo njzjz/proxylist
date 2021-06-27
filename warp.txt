@@ -11,3 +11,7 @@
 @@||wikipedia.org
 @@||wikidata.org
 @@||wikisource.org
+
+!bypass localhost
+@@localhost
+@@127.0.0.1
