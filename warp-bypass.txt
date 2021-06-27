@@ -1,0 +1,15 @@
+! This file is self-used only.
+! This is used for bypass.
+
+! bypass Rutgers
+||rutgers.edu
+
+! bypass wikimedia
+@@||zh.wikipedia.org
+||wikipedia.org
+||wikidata.org
+||wikisource.org
+
+!bypass localhost
+localhost
+127.0.0.1
