@@ -5,14 +5,20 @@
 ||rutgers.edu
 .rutgers.edu
 
+! bypass pubs
+||pubs.rsc.org
+
 ! bypass wikimedia
 ||wikipedia.org
 .wikipedia.org
-@@||zh.wikipedia.org
 ||wikidata.org
 .wikidata.org
 ||wikisource.org
 .wikisource.org
+||wikimedia.org
+wikimedia.org
+||wikinews.org
+wikinews.org
 
 !bypass localhost
 localhost
