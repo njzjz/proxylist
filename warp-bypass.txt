@@ -6,9 +6,9 @@
 .rutgers.edu
 
 ! bypass wikimedia
-@@||zh.wikipedia.org
 ||wikipedia.org
 .wikipedia.org
+@@||zh.wikipedia.org
 ||wikidata.org
 .wikidata.org
 ||wikisource.org
