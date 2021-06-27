@@ -1,0 +1,7 @@
+! This file is self-used only.
+
+*
+||rutgers.edu
+||wikipedia.org
+||wikidata.org
+||wikisource.org
