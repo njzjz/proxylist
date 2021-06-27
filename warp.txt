@@ -1,0 +1,21 @@
+! This file is self-used only.
+
+! proxy all
+*
+
+! bypass Rutgers
+@@||rutgers.edu
+@@.rutgers.edu
+
+! bypass wikimedia
+@@||wikipedia.org
+@@.wikipedia.org
+||zh.wikipedia.org
+@@||wikidata.org
+@@.wikidata.org
+@@||wikisource.org
+@@.wikisource.org
+
+!bypass localhost
+@@localhost
+@@127.0.0.1
