@@ -7,6 +7,7 @@
 
 ! bypass pubs
 ||pubs.rsc.org
+.webofknowledge.com
 
 ! bypass wikimedia
 ||wikipedia.org
