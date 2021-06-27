@@ -1,11 +1,13 @@
 ! This file is self-used only.
-! This file is for bypassing WARP.
 
 ! bypass Rutgers
-rutgers.edu
+@@||rutgers.edu
 
 ! bypass wikimedia
-@@||zh.wikipedia.org
-wikipedia.org
-wikidata.org
-wikisource.org
+||zh.wikipedia.org
+@@||wikipedia.org
+||wikidata.org
+||wikisource.org
+
+! proxy all
+*
