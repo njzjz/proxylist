@@ -3,5 +3,6 @@
 *
 ||rutgers.edu
 ||wikipedia.org
+zh.wikipedia.org
 ||wikidata.org
 ||wikisource.org
